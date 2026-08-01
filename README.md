@@ -78,11 +78,7 @@ Platform to report and track lost or found items.
 ## 📊 GitHub Stats
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamidAzam&layout=compact&theme=tokyonight" />
-
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight"/>
 </p>
 
 ---
