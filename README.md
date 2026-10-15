@@ -1,23 +1,25 @@
-<div align="center">
+ <div align="center">
 
 # 👋 Hi, I'm Md Hamid Azam
 
-### 🚀 Full Stack Developer • Java & DSA • MERN Stack • Software Engineering
+### Full Stack Web Development • Java & DSA • Software Engineering
 
 <p>
   <a href="https://md-hamid-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-0A66C2?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/MdHamidAzam">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/md-hamid-azam-54aaab309">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hm2563749@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Building+Web+Applications;Java+%7C+Data+Structures+%26+Algorithms;Learning+by+Building+Real+Projects" alt="Animated introduction" />
 
 </div>
 
@@ -25,270 +27,172 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **Computer Science & Engineering student** passionate about building scalable and user-focused web applications.
+I'm **Md Hamid Azam**, a B.Tech Computer Science and Engineering student at Babu Banarasi Das University, Lucknow.
 
-I enjoy turning ideas into real products using modern web technologies while continuously improving my **problem-solving, backend and software engineering skills**.
+I'm passionate about web development, problem-solving, and building practical software projects. I enjoy learning modern technologies and improving my programming and software engineering skills through hands-on development.
 
-```text
-🎓 B.Tech CSE Student
-💻 Full Stack Web Development
-☕ Java + Data Structures & Algorithms
-🌐 MERN Stack
-📊 Data Analytics
-🏗️ System Design
-🚀 Real-World Project Development
-💼 Open to Software Development Internships
-```
+- 🎓 B.Tech Computer Science & Engineering
+- 🌐 Interested in Full Stack Web Development
+- ☕ Practicing Data Structures & Algorithms using Java
+- 📊 Interested in Data Analytics
+- 🚀 Focused on building projects and continuous learning
+- 💼 Interested in Software Development Internships
 
----
+## 🛠️ Technical Skills
 
-## ⚡ What I Do
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Full Stack Development
-
-* Build responsive web applications
-* Design REST APIs
-* Work with authentication & authorization
-* Build database-driven applications
-* Develop scalable backend services
-
-</td>
-
-<td width="50%">
-
-### 🧠 Problem Solving
-
-* Data Structures & Algorithms
-* Java problem solving
-* LeetCode practice
-* Algorithm optimization
-* Interview preparation
-
-</td>
-</tr>
-</table>
-
----
-
-# 🛠️ Tech Stack
-
-### 👨‍💻 Programming Languages
+### Programming & Web Technologies
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,js,python,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Programming and web technology icons" />
 </p>
 
-### ⚛️ Frontend Development
+### Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend technology icons" />
 </p>
 
-### ⚙️ Backend & Database
+### Backend & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technology icons" />
 </p>
 
-### 🔧 Developer Tools
+### Tools & Libraries
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools icons" />
 </p>
 
----
+Also worked with **Framer Motion, EmailJS, React Icons, React Scroll, and Swiper**.
 
-# 🚀 Featured Projects
-
-## 🕋 Dayare Haram — Hajj & Umrah Travel Platform
-
-A modern travel platform designed for **Hajj & Umrah packages, customer engagement and online booking workflows**.
-
-### Highlights
-
-* 📦 Package discovery & filtering
-* 🔐 Authentication
-* 📅 Booking workflow
-* 👤 User dashboard
-* 🛠️ Admin management
-* 📱 Responsive UI
-* 🤖 AI-powered features
-* 💳 Payment integration architecture
-
-**Stack:** React / Next.js · MongoDB · REST APIs · Authentication
-
-🌐 **[Live Portfolio](https://md-hamid-portfolio.vercel.app/)**
+*Note: Technology icons indicate areas of experience or learning, not necessarily professional proficiency.*
 
 ---
 
-## 📈 ZeroTrade — Stock Trading Platform
+## 🚀 Featured Projects
 
-A modern trading-platform concept inspired by real-world brokerage applications.
+### 🕋 Dayare Haram — Hajj & Umrah Travel Website
 
-### Highlights
+A travel website focused on Hajj and Umrah packages, designed to present travel offerings through a modern user interface.
 
-* 📊 Trading dashboard
-* 💼 Portfolio management
-* 📈 Market-oriented UI
-* 🔐 User authentication
-* 🗄️ Database integration
-* ⚡ Full-stack architecture
+**Project focus**
+- Travel package presentation and discovery
+- Responsive user interface
+- Hajj and Umrah travel experience
 
-**Stack:** React · Node.js · Express · MongoDB
+**Technologies:** React, Next.js, MongoDB and related web technologies, as applicable to the respective implementation.
 
----
+🔗 [Visit My Portfolio](https://md-hamid-portfolio.vercel.app/)
 
-## 🔍 Lost & Found Tracking System
+### 📈 ZeroTrade — Stock Trading Platform
 
-A platform designed to help users **report, discover and track lost or found items**.
+A stock trading platform inspired by Zerodha, featuring dashboard-oriented interfaces and responsive design.
 
-### Highlights
+**Project focus**
+- Trading platform interface
+- Dashboard-oriented user experience
+- Responsive web design
 
-* 🔎 Search & discovery
-* 📝 Lost/found reporting
-* 📋 Item tracking
-* 👥 User-oriented workflow
-* 📱 Responsive interface
+**Technologies:** React, Node.js, Express and MongoDB, as applicable to the respective implementation.
 
-**Stack:** HTML · CSS · JavaScript · Backend Integration
+🔗 [Visit My Portfolio](https://md-hamid-portfolio.vercel.app/)
 
----
+### 🔍 Lost & Found Tracking System
 
-# 🧠 Data Structures & Algorithms
+A web application designed to help users report and locate lost items efficiently.
 
-I practice DSA primarily using **Java** and focus on understanding patterns rather than memorizing solutions.
+**Project focus**
+- Lost-item reporting
+- Lost and found item discovery
+- Practical web application development
 
-### 📚 Topics
+**Technologies:** HTML, CSS and JavaScript, with additional technologies depending on the implementation.
 
-```text
-Arrays & Strings
-Linked Lists
-Stack & Queue
-Hashing
-Two Pointers
-Sliding Window
-Binary Search
-Trees & BST
-Recursion & Backtracking
-Greedy Algorithms
-Dynamic Programming
-Graphs
-```
-
-🎯 **Focus:** Better problem solving + optimized solutions + interview readiness.
+🔗 [Visit My Portfolio](https://md-hamid-portfolio.vercel.app/)
 
 ---
 
-# 📊 GitHub Analytics
+## 🧠 Data Structures & Algorithms
+
+I practice DSA primarily using **Java**, focusing on understanding concepts, recognizing patterns, and improving problem-solving skills.
+
+Topics I study and practice include:
+
+- Arrays and Strings
+- Linked Lists
+- Stacks and Queues
+- HashMap and HashSet
+- Two Pointers and Sliding Window
+- Binary Search
+- Trees and Binary Search Trees
+- Recursion and Backtracking
+- Greedy Algorithms
+- Dynamic Programming
+- Graphs
+
+🎯 **Goal:** Develop strong problem-solving skills and prepare for software engineering interviews.
+
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
+<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamidAzam&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamidAzam&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most-used languages in public repositories" />
 
-</div>
+<br />
 
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=MdHamidAzam&theme=tokyonight&hide_border=true" />
+<img src="https://streak-stats.demolab.com?user=MdHamidAzam&theme=tokyonight&hide_border=true" width="70%" alt="GitHub contribution streak" />
 
 </div>
 
----
-
-# 🧩 My Development Philosophy
-
-> **Learn → Build → Break → Debug → Improve → Repeat**
-
-I believe the best way to become a better developer is to continuously **build real projects, solve problems and learn from mistakes**.
+*Statistics are generated by external services and may depend on public repository data and service availability.*
 
 ---
 
-# 📚 Currently Learning
+## 📚 Learning & Development
 
-<table>
-<tr>
-<td>
+I'm continuously improving my skills in:
 
-### 💻 Software Engineering
+- 💻 Java and Data Structures & Algorithms
+- 🌐 Full Stack Web Development
+- ⚙️ Backend development and API fundamentals
+- 🗄️ Database concepts
+- 📊 Data Analytics and Power BI
+- 🏗️ Software engineering fundamentals
 
-* Advanced DSA
-* Backend Architecture
-* REST API Design
-* Database Design
-* System Design
+## 💼 Career Interests
 
-</td>
+I'm interested in opportunities involving:
 
-<td>
+- Software Development Internships
+- Full Stack / MERN Development
+- Java Development
+- Backend Development
+- Open Source Collaboration
 
-### 📊 Data & AI
-
-* Python
-* Data Analytics
-* Excel
-* Power BI
-* AI-powered applications
-
-</td>
-</tr>
-</table>
+I'm eager to apply my knowledge, learn from experienced developers, and contribute to meaningful software projects.
 
 ---
 
-# 🎯 2026 Goals
-
-```text
-☑ Strengthen Java + DSA
-☑ Build production-style MERN applications
-☑ Improve backend & system design skills
-☐ Contribute to open source
-☐ Secure a software development internship
-☐ Build and deploy more real-world products
-☐ Become a stronger software engineer
-```
-
----
-
-# 💼 Open to Opportunities
-
-I'm currently interested in:
-
-**Software Development Internships**
-**Full Stack / MERN Internships**
-**Java Development Opportunities**
-**Backend Development Opportunities**
-**Open Source Collaboration**
-
-If you're building something interesting, I'd love to connect.
-
----
-
-# 🌐 Let's Connect
+## 📬 Let's Connect
 
 <div align="center">
 
 <a href="https://md-hamid-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Explore-0A66C2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio website" />
 </a>
-
 <a href="https://www.linkedin.com/in/md-hamid-azam-54aaab309">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
 </a>
-
 <a href="https://github.com/MdHamidAzam">
-<img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github" />
+  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" />
 </a>
-
 <a href="mailto:hm2563749@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-Contact-EA4335?style=for-the-badge&logo=gmail" />
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email contact" />
 </a>
 
 </div>
@@ -297,10 +201,10 @@ If you're building something interesting, I'd love to connect.
 
 <div align="center">
 
-### 🚀 Building Products. Solving Problems. Becoming Better Every Day.
+### 🚀 Learn Continuously. Build Thoughtfully. Improve Every Day.
 
-<img src="https://komarev.com/ghpvc/?username=MdHamidAzam&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=MdHamidAzam&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 
-⭐ **Thanks for visiting my profile!**
+**Thanks for visiting my profile! ⭐**
 
 </div>
