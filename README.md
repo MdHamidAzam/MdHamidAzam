@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:06B6D4&height=200&section=header&text=Md%20Hamid%20Azam&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Development%20%7C%20Java%20%26%20DSA&descAlignY=55&descSize=16" width="100%" alt="Animated profile header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md%20Hamid%20Azam&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Full%20Stack%20Development%20%7C%20Java%20%26%20DSA&amp;descAlignY=55&amp;descSize=16" width="100%" alt="Animated profile header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=600&lines=Computer+Science+Engineering+Student;Full+Stack+Web+Development;Java+%7C+Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Every+Day" alt="Animated typing introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Computer+Science+Engineering+Student;Full+Stack+Web+Development;Java+%7C+Data+Structures+%26+Algorithms;Building+Projects+and+Learning+Every+Day" alt="Animated typing introduction" />
 
 <p>
   <a href="https://md-hamid-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://github.com/MdHamidAzam">
-    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Explore-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/md-hamid-azam-54aaab309">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hm2563749@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email" />
   </a>
 </p>
 
@@ -50,7 +50,7 @@ I'm interested in full-stack web development, Java programming, Data Structures 
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend technologies" />
 </p>
 
-**Backend & Databases**
+**Backend &amp; Databases**
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies" />
@@ -64,9 +64,11 @@ I'm interested in full-stack web development, Java programming, Data Structures 
 
 Additional libraries: **Framer Motion, EmailJS, React Icons, React Scroll, and Swiper.**
 
+---
+
 ## 🚀 Featured Projects
 
-### 🕋 Dayare Haram — Hajj & Umrah Travel Website
+### 🕋 Dayare Haram — Hajj &amp; Umrah Travel Website
 
 A travel website focused on presenting Hajj and Umrah packages through a modern interface.
 
@@ -85,7 +87,7 @@ A stock trading platform concept inspired by Zerodha, featuring dashboard-orient
 
 🔗 [Visit Portfolio](https://md-hamid-portfolio.vercel.app/)
 
-### 🔍 Lost & Found Tracking System
+### 🔍 Lost &amp; Found Tracking System
 
 A web application designed to help users report and locate lost items.
 
@@ -94,7 +96,9 @@ A web application designed to help users report and locate lost items.
 
 🔗 [Visit Portfolio](https://md-hamid-portfolio.vercel.app/)
 
-## 🧠 Data Structures & Algorithms
+---
+
+## 🧠 Data Structures &amp; Algorithms
 
 I practice DSA primarily using Java, focusing on understanding concepts and improving problem-solving skills.
 
@@ -110,13 +114,15 @@ I practice DSA primarily using Java, focusing on understanding concepts and impr
 - Dynamic Programming
 - Graphs
 
+---
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&show_icons=true&theme=tokyonight&hide_border=true" height="170" alt="GitHub statistics" />
+<img src="https://github-readme-stats.vercel.app/api?username=MdHamidAzam&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="GitHub statistics" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamidAzam&layout=compact&theme=tokyonight&hide_border=true" height="170" alt="Most-used languages in public repositories" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MdHamidAzam&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true" height="170" alt="Most-used languages in public repositories" />
 
 </div>
 
@@ -124,7 +130,7 @@ I practice DSA primarily using Java, focusing on understanding concepts and impr
 
 ## 📚 Currently Learning
 
-- Java and Data Structures & Algorithms
+- Java and Data Structures &amp; Algorithms
 - Full Stack Web Development
 - Backend development fundamentals
 - Database concepts
@@ -140,14 +146,21 @@ I'm interested in opportunities involving:
 - Backend Development
 - Open Source Collaboration
 
+I'm eager to learn, collaborate, and contribute to practical software projects.
+
+---
+
 ## 📬 Let's Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://md-hamid-portfolio.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hamid-azam-54aaab309)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdHamidAzam)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hm2563749@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://md-hamid-portfolio.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/md-hamid-azam-54aaab309)
+
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/MdHamidAzam)
+
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hm2563749@gmail.com)
 
 ### 🚀 Learn. Build. Debug. Improve.
 
@@ -156,5 +169,5 @@ Thanks for visiting my profile! ⭐
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%" alt="Decorative footer banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:1D4ED8,100:0F172A&amp;height=100&amp;section=footer" width="100%" alt="Decorative footer banner" />
 </div>
