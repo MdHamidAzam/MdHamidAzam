@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md%20Hamid%20Azam&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35" width="100%" alt="Animated profile banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md%20Hamid%20Azam&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35" width="100%" alt="Animated profile header" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Computer+Science+Engineering+Student;Full+Stack+Web+Development;Java+and+Data+Structures;Building+Projects+Every+Day" alt="Typing animation" />
 
@@ -36,27 +36,29 @@ I'm interested in full-stack web development, Java programming, Data Structures 
 - 🚀 Learning through hands-on projects
 - 💼 Interested in Software Development Internships
 
+---
+
 ## 🛠️ Tech Stack
 
-**Programming Languages**
+### 💻 Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,python,html,css" alt="Programming languages" />
 </p>
 
-**Frontend Development**
+### ⚛️ Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind" alt="Frontend technologies" />
 </p>
 
-**Backend &amp; Databases**
+### ⚙️ Backend &amp; Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend and database technologies" />
 </p>
 
-**Tools**
+### 🔧 Developer Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development tools" />
@@ -126,7 +128,11 @@ I practice DSA primarily using Java, focusing on understanding concepts and impr
 
 </div>
 
-*Statistics depend on public repository data and third-party service availability.*
+<p align="center">
+  <i>Statistics depend on public repository data and third-party service availability.</i>
+</p>
+
+---
 
 ## 📚 Currently Learning
 
@@ -135,6 +141,8 @@ I practice DSA primarily using Java, focusing on understanding concepts and impr
 - Backend development fundamentals
 - Database concepts
 - Data Analytics and Power BI
+
+---
 
 ## 💼 Career Interests
 
@@ -154,13 +162,13 @@ I'm eager to learn, collaborate, and contribute to practical software projects.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&amp;logo=vercel&amp;logoColor=white)](https://md-hamid-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Explore-2563EB?style=for-the-badge&logo=vercel&logoColor=white)](https://md-hamid-portfolio.vercel.app/)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/md-hamid-azam-54aaab309)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-hamid-azam-54aaab309)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)](https://github.com/MdHamidAzam)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MdHamidAzam)
 
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:hm2563749@gmail.com)
+[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hm2563749@gmail.com)
 
 ### 🚀 Learn. Build. Debug. Improve.
 
@@ -169,5 +177,5 @@ Thanks for visiting my profile! ⭐
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:1D4ED8,100:0F172A&amp;height=100&amp;section=footer" width="100%" alt="Decorative footer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:06B6D4,50:1D4ED8,100:0F172A&amp;height=100&amp;section=footer" width="100%" alt="Decorative footer banner" />
 </div>
