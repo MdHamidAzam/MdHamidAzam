@@ -1,12 +1,8 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:0F172A,50:1D4ED8,100:06B6D4&amp;height=200&amp;section=header&amp;text=Md%20Hamid%20Azam&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35" width="100%" alt="Animated profile banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=20&amp;pause=1200&amp;color=38BDF8&amp;center=true&amp;vCenter=true&amp;width=600&amp;lines=Computer+Science+Engineering+Student;Full+Stack+Web+Development;Java+and+Data+Structures;Building+Projects+Every+Day" alt="Typing animation" />
-
-</div>
-
 
 <p>
   <a href="https://md-hamid-portfolio.vercel.app/">
